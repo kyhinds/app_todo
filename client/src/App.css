@@ -82,7 +82,7 @@ li > input[type='checkbox'] {
   border: 0px solid grey;
 }
 .input-box:focus {
-  border: 1px solid #b83f45;
+  border: 1px solid #076bd6;
 }
 
 .todo-text {
@@ -104,7 +104,7 @@ li > input[type='checkbox'] {
 }
 
 .delete-button:hover {
-  background-color: #ff5252;
+  background-color: #076bd6;
 }
 
 
@@ -150,7 +150,7 @@ li > input[type='checkbox'] {
 }
 
 .outer-todo-list-container {
-  color:#b83f45;
+  color:#076bd6; /*  color:#b83f45; */
   background:transparent;
   margin: 0 auto;
   padding: 10px;

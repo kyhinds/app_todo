@@ -47,7 +47,7 @@ function TodoList() {
 
   return (
     <div style={{width:'33%'}} className="outer-todo-list-container">
-      <h1>todos</h1>
+      <h1>Todo List</h1>
       <div className="todo-list-container">
       <form onSubmit={addTodo}>
         <input
