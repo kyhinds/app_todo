@@ -1,4 +1,4 @@
-# app_todo
+# Todo List App
 
 This is a simple todo list application built with React and Node.js. It allows users to add, edit, and manage tasks easily.
 
